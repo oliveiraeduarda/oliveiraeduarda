@@ -15,7 +15,6 @@
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliveiraeduarda&count_private=true&show_icons=true&theme=dracula)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiraeduarda&theme=dracula"/>
 
 <h3> Tecnologias que uso no meu dia e dia e que estou estudando: </h3>
 
