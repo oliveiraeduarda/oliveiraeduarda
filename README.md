@@ -1,15 +1,25 @@
 
-### Olá!! Eu sou a Eduarda Oliveira :) 
+### Olá!! Eu sou a Eduarda Oliveira 💖
 
 - 🌱 Atualmente estou estudando PHP, Laravel, C e Java
 - 😄 Pronouns: Ela/Dela
 - ⚡ Fun fact: Amo cachorros! 🐶💕
 <br>
+<div> 
+  <a href="https://instagram.com/eduardasiillva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/oliveira-eduarda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:duda.silva.oliveira97@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
+##
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliveiraeduarda&count_private=true&show_icons=true&theme=dracula)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiraeduarda&theme=dracula"/>
 
+<h3> Tecnologias que uso no meu dia e dia e que estou estudando: </h3>
+
+##
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Duda-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
@@ -24,9 +34,8 @@
 
 </div>
 
-##
-<div> 
-  <a href="https://instagram.com/eduardasiillva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/oliveira-eduarda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:duda.silva.oliveira97@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<br>
+
+<div>
+  <p>Apaixonada por tecnologia e por fazer a diferença no mundo através da programação. 👩🏻‍💻</p>
 </div>
