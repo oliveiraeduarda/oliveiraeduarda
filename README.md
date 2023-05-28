@@ -1,7 +1,7 @@
 
 ### Olá!! Eu sou a Eduarda Oliveira 💖
 
-- 🌱 Atualmente estou estudando PHP, Laravel, C e Java
+- 🌱 Atualmente estou estudando PHP e JavaScript.
 - 😄 Pronouns: Ela/Dela
 - ⚡ Fun fact: Amo cachorros! 🐶💕
 <br>
