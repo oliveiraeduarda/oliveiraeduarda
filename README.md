@@ -7,18 +7,17 @@
 - ⚡ Fun fact: I love dogs! 🐶💕
 
 ##
-<br>
+<h3>Github Stats 🌟</h3>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oliveiraeduarda&show_icons=true&theme=dracula)
 
+<br>
 
-<h3> My skills: </h3>
-
-##
+<h2> 🤩 Main skills and technologies: </h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,c,css,py,django,github,html,js,php,laravel,mysql,nodejs,postman,react,styledcomponents" />
   </a>
 </p>
 </div>
@@ -31,6 +30,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/oliveiraeduarda/oliveiraeduarda/output/github-contribution-grid-snake.svg">
 </picture>
 
-<div>
-  <p>Apaixonada por tecnologia e por fazer a diferença no mundo através da programação. 👩🏻‍💻</p>
+<div align="center">
+  <p>Passionate about technology and making a difference in the world through programming. 👩🏻‍💻</p>
 </div>
